@@ -1,0 +1,5 @@
+v 1.0.0
+d 'cfsave': Stata program for data replication checks.
+d 
+d 
+F cfsave.ado

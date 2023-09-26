@@ -1,0 +1,8 @@
+v 1.0.0
+d Diego Ciccia
+d cicciadiego99@gmail.com
+d https://github.com/DiegoCiccia/cfsave
+
+d 'cfsave': Stata program for data replication checks.
+
+p cfsave
