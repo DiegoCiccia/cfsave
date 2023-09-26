@@ -1,5 +1,5 @@
 # cfsave
-A Stata command to check if the dataset is exactly replicated (relative to a previous copy) before saving it.
+A Stata command for replication checks and a slight improvement on compare frames (cf). 
 
 ## Setup
 Copy and paste the following line on your Stata prompt:
