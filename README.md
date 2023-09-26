@@ -19,6 +19,7 @@ The logic of this command is very simple:
 2. If the *using* dataset already exists, the program compares the specified variables (or the whole dataset if _all is specified) with the copy already existing. If the comparison yields only perfect matches, the dataset is saved.
 
 ## Example
+Run the following block twice to check the command functionalities.
 ```
 clear
 set obs 1000
